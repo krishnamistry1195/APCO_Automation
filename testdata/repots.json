@@ -1,0 +1,27 @@
+{
+    "businessprocessing": {
+        "dealer": "PURVIS FORD, INC. - 010625"
+    },
+    "expectbusiness":{
+        "currentreport": "The report was generated",
+        "previousreport": "The report was generated",
+        "customreport": "The report was generated",
+        "accountstatement": "Click on the links below to download the full statement details."
+    },
+    "expectproducttype":{
+        "dealerupcomming": "Scheduled Maintenance - Dealer Upcoming Services Report",
+        "dealerupcommingreport": "Expected Service Date From",
+        "accountingreserves": "Accounting - Reserve Reconciliation Report",
+        "dealerreserves": "Dealer Reserve Account Reconciliation Report",
+        "writtenreserves": "Contract Sales/Written Reserves",
+        "cancellationreserves": " Cancellations",
+        "claimpaid": " Claims Payments",
+        "previouslydistributed":"Previously Distributed",
+        "missedservices":" Missed Services"
+    },
+    "producttype":{
+        "dealer":"002695",
+        "quarter":"Fourth Quarter",
+        "year":"2020"
+    }
+}
